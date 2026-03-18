@@ -1,0 +1,6 @@
+# ingredienents
+
+- pasta
+- eggs
+- guanciale
+-
